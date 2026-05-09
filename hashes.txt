@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - El3ab Yalla
+
+This log tracks the cryptographic history and versioning for the song **El3ab Yalla** (el3ab-yalla).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T14:58:39.226702 | `v1` | `7be83b6fb6af1fb18feaa355d125821caf6329444f1ba82988ca7e198170e43f` | `ab6c8b3fe2095bb2aa6ab4cf4bb6baf430446a82df1fbf8deaa8bdd436e45379` | `2026-05-09_el3ab-yalla-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
